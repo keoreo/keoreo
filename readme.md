@@ -8,7 +8,7 @@
 ✉️ &nbsp;\
 📄 &nbsp;
 
-<img alt="Coding" src="https://github.com/keoreo/keoreo/blob/main/assets/Tisp.gif" align="right"/>
+<img alt="Coding" src="https://i.gifer.com/FBt2.gif" align="right"/>
 
 ### 🛠 &nbsp;Технический стек
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;

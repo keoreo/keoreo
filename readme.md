@@ -8,6 +8,8 @@
 ✉️ &nbsp;\
 📄 &nbsp;
 
+<img alt="Coding" src="" align="right"/>
+
 ### 🛠 &nbsp;Технический стек
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;

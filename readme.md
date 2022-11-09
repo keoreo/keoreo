@@ -22,3 +22,7 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)&nbsp;
 
 ### 🤝🏻 &nbsp;Свяжитесь со мной
+
+<p aling="center">
+<a href="google:vasavaseckin801@gmail.com"><img src="https://img.shields.io/badge/-vasavaseckin801@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
